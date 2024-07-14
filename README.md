@@ -13,10 +13,8 @@
 
 - Q: Why this picture?
 - A: Gift from daughter, she drew it for me.
-
 - Q: Why this README?
 - A: I like the idea of having a README as a profile page.
-
 - Q: Why the name nuclearcat?
 - A: I like cats and I like nuclear physics.
 
