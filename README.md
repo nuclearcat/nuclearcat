@@ -22,10 +22,4 @@
 
 Various fancy stats about my github account. No bragging intended, just for fun.
 
-![Nuclearcat's github stats](https://github-readme-stats.vercel.app/api?username=nuclearcat&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuclearcat&layout=compact&theme=radical)
-
-![Nuclearcat's github streak](https://github-readme-streak-stats.herokuapp.com/?user=nuclearcat&theme=radical)
-
-![Nuclearcat's github trophies](https://github-profile-trophy.vercel.app/?username=nuclearcat&theme=radical)
+*(Stats images removed due to service unavailability)*
